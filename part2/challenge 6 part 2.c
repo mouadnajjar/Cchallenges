@@ -14,7 +14,9 @@ if(num<0){
 }else if(num>0){
 	printf("your number is positive!");
 	
+}else printf("your number is null : ");
+
 }
 	
 	
-}
+
