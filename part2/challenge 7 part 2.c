@@ -7,8 +7,8 @@ int main(){
 	scanf("%c",&chart);
 	ascii=(int)chart;
 	if(ascii>=65 && ascii<=90){
-		printf("Le caractère est majuscule");
+		printf("your caracter is majuscule");
 	}else{
-			printf("Le caractère est miniscule");
+			printf("your carcater is  miniscule");
 	}
 }
