@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
 	int nbrs;
 	int i;
@@ -16,5 +15,6 @@ int main(){
 		
 		
 	}
+
 	
 }
